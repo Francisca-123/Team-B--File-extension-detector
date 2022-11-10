@@ -1,0 +1,43 @@
+Programming Languages and their Extensions.
+
+JavaScript - .js
+
+Python - .py
+
+Ada - .adb
+
+Java - .java
+
+C - .c
+
+C## - .cs
+
+C++ - .cpp
+
+CSS - .css
+
+Perl - .cgi
+
+PHP - .php
+
+Swift - .swift
+
+FORTRAN - .f
+
+COBOL - .cob
+
+HTML - .html
+
+Kotlin - .kt
+
+Pascal - .pas
+
+R - .r
+
+Ruby - .rb
+
+Sage - .sage
+
+Shell - .sh
+
+Visual Basic - .vb

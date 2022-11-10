@@ -1,0 +1,15 @@
+getting the user file
+
+Eg userFile = name.js
+
+Get the extension
+
+so that the name of the file will be split into two items in an array['name','js']
+
+To get ext from the array use pop()
+
+the last item is always the file extension
+
+ie 'js'
+
+write a function that prints out the name of file name after the the user inputs the file name and extension
